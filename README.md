@@ -44,7 +44,7 @@ Ce gestionnaire a été développé pour offrir une expérience fluide et centra
 Ouvrez votre terminal et clonez le projet :
 
 ```bash
-git clone https://github.com/BrunoDevCraft/Suivi_recherche_emploi.git
+git clone [https://github.com/BrunoDevCraft/Suivi_recherche_emploi.git](https://github.com/BrunoDevCraft/Suivi_recherche_emploi.git)
 cd Suivi_recherche_emploi
 ```
 
