@@ -1,0 +1,10 @@
+# Dossiers générés par Node/npm
+node_modules/
+npm-debug.log*
+
+# Dossiers et fichiers générés par Electron Builder
+dist/
+build/
+
+# Fichiers de la base de données locale (ne doivent pas être versionnés)
+db/suivi_demandes.db
