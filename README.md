@@ -34,56 +34,10 @@ Ce gestionnaire a été développé pour offrir une expérience fluide et centra
 
 ## 🚀 Installation et Démarrage
 
-### Prérequis
-
-  * [Node.js](https://nodejs.org/) (inclut npm)
-  * [Git](https://www.google.com/search?q=https://git-scm.com/downloads)
-
-### 1\. Cloner le Dépôt
-
-Ouvrez votre terminal et clonez le projet :
-
-```bash
-git clone [https://github.com/BrunoDevCraft/Suivi_recherche_emploi.git](https://github.com/BrunoDevCraft/Suivi_recherche_emploi.git)
-cd Suivi_recherche_emploi
-```
-
-### 2\. Installer les Dépendances
-
-Installez toutes les dépendances Node.js nécessaires au projet :
-
-```bash
-npm install
-```
-
-### 3\. Démarrer l'Application en Mode Dev
-
-Lancez l'application Electron en mode développement :
-
-```bash
-npm start
-```
-
------
-
-## 📦 Création de l'Exécutable (.EXE)
-
-Le fichier `package.json` est configuré pour générer un installateur Windows 64-bit (`--win --x64`) grâce à `electron-builder`.
-
-### 1\. Lancer le Packaging
-
-```bash
-npm run package-win
-```
-
-### 2\. Trouver l'Installateur
-
-Le fichier d'installation sera généré dans le répertoire **`dist/`** sous la forme :
-
-```
-dist/SuiviDemandesEmploi Setup 1.0.0.exe
-```
-
+Télécharger le fichier : "SuiviDemandesEmploi Setup 1.0.0.exe"
+1 - lancer
+2 - installer
+3 - c'est près!!
 -----
 
 ## 🤝 Contribution
